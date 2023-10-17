@@ -3,3 +3,7 @@ langchain
 unstructured==0.7.12
 chromadb
 tiktoken
+google-api-python-client 
+google-auth-httplib2 
+google-auth-oauthlib
+pypdf2
