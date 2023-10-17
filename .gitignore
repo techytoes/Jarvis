@@ -1,0 +1,5 @@
+venv/
+.env
+token.pickle
+.DS_Store
+__pycache__/

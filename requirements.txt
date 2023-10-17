@@ -1,0 +1,5 @@
+openai
+langchain
+unstructured==0.7.12
+chromadb
+tiktoken
